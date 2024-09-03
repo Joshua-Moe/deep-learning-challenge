@@ -1,5 +1,5 @@
 # deep-learning-challenge
-Module 20 Challenge - UNCC-VIRT-DATA-PT-03-2024-U-LOLC-MTTH
+Module 21 Challenge - UNCC-VIRT-DATA-PT-03-2024-U-LOLC-MTTH
 
 # Overview of the analysis: 
 The goal of this project is to create a machine learning classification model that would best predict the best chance of success (with an accuracy above 75%) in their ventures for "The nonprofit foundation Alphabet Soup" (name used in homework prompt; no affiliation).
